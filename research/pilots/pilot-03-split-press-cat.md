@@ -39,3 +39,12 @@ https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_2026071
 https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_195850_164ea59c-52e8-43b9-973b-8ab87b42d29c.mp4
 
 Цепочка кадров v2: 80c71832 → cdd68724 → 15df57ea → 37ff9a50 → 327fbd78. Клипы v2: dc40f7e4, 013f768e, bccd71e0, cedf4c61, 3b5b76c9. Сборка: 164ea59c.
+
+## ФИНАЛЬНЫЙ РОЛИК v4 (11.07.2026) — перегенерированы блоки 2 и 5
+
+Фидбек пользователя по v3: блок 2 слабый; в блоке 5 пресс «наезжал на кота» (kling слил половины сплита). Оба блока перегенерированы с жёстким промпт-гардом: «two completely separate, unrelated videos… nothing ever crosses the divider… the press exists ONLY in the bottom half». Правило конвейера: анти-слияние гард обязателен в каждом сплит-промпте.
+
+**MP4 v4 (720x1280, 60с):**
+https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_200947_74dd32ad-60e6-43cf-9932-3d95a76aec44.mp4
+
+Новые клипы: блок 2 = 5eb8bf8f, блок 5 = 454306f4. Сборка: 74dd32ad.
