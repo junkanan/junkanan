@@ -34,7 +34,7 @@
 
 ## ФИНАЛЬНЫЙ РОЛИК (готов, 11.07.2026)
 
-**MP4 (720x1280, 35с, озвучка Roman + субтитры anton):**
-https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_183618_9bfa4975-996c-4c3f-8530-80ac8e9364de.mp4
+**MP4 (720x1280, 35с, озвучка Roman + субтитры patrick (v2; anton вылезал за рамку)):**
+https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_184103_967f2762-add2-451f-b818-19fcfb782d0e.mp4
 
 Сборка: explainer_video job 9bfa4975-996c-4c3f-8530-80ac8e9364de. Аудио-блоки (Roman): 20ca322d, f75a0f3f, dcdb5404, c8359212, e9897cb9, 27a10db0, e22e2ca8. Полная себестоимость: ~70 кредитов (~$1).

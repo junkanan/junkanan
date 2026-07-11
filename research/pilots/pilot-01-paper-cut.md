@@ -19,7 +19,7 @@
 - Кадры: nano_banana_pro (фактически nano_banana_2), 9:16, 1k, единый стиль-дескриптор «viral educational 3D, slightly unsettling hyper-clean». 2 кр/кадр.
 - Анимация: kling3_0_turbo image-to-video, 5с, 9:16. 7.5 кр/клип.
 - Озвучка: seed_audio (ЗАБЛОКИРОВАН — требует одобрения коннектора; см. статус ниже).
-- Сборка: explainer_video (бесплатно) + burned-in субтитры anton.
+- Сборка: explainer_video (бесплатно) + burned-in субтитры patrick (v2; anton вылезал за рамку).
 - Итоговая себестоимость ролика: ~67 кредитов + субтитры $0.35.
 
 ## Job IDs (11 июля 2026)
@@ -50,8 +50,8 @@
 
 ## ФИНАЛЬНЫЙ РОЛИК (готов, 11.07.2026)
 
-**MP4 (720x1280, 35с, озвучка Roman + субтитры anton):**
-https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_183609_2969d16d-0afe-4078-8254-0bfd8f124544.mp4
+**MP4 (720x1280, 35с, озвучка Roman + субтитры patrick (v2; anton вылезал за рамку)):**
+https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_184054_a9ba73ad-7fd0-4019-bcfd-0a90b0de2386.mp4
 
 Сборка: explainer_video job 2969d16d-0afe-4078-8254-0bfd8f124544. Голос канала: seed_audio preset «Roman» (7e63ac18-5fcd-4aba-8078-a86d4e11c127). Аудио-блоки: 0011193c, 48a4ce63, 0ed01dc5, d72e2807, fd820b3a, 082a12a7, cc100626. Полная себестоимость ролика: ~70 кредитов (~$1).
 
