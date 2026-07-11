@@ -48,12 +48,14 @@
 
 Фактический расход: 7 кадров (nano_banana_2) + 7 клипов (kling3_0_turbo 7.5 кр) ≈ 66.5 кредитов.
 
-## Осталось для финального MP4
+## ФИНАЛЬНЫЙ РОЛИК (готов, 11.07.2026)
 
-1. Озвучка 7 блоков (seed_audio) — заблокировано одобрением.
-2. Сборка explainer_video (7 блоков, 720x1280, субтитры font=anton) — заблокировано одобрением. Команда готова: items в порядке C1→C7, audio=job_id каждого блока озвучки.
+**MP4 (720x1280, 35с, озвучка Roman + субтитры anton):**
+https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_183609_2969d16d-0afe-4078-8254-0bfd8f124544.mp4
 
-## Статус блокеров
+Сборка: explainer_video job 2969d16d-0afe-4078-8254-0bfd8f124544. Голос канала: seed_audio preset «Roman» (7e63ac18-5fcd-4aba-8078-a86d4e11c127). Аудио-блоки: 0011193c, 48a4ce63, 0ed01dc5, d72e2807, fd820b3a, 082a12a7, cc100626. Полная себестоимость ролика: ~70 кредитов (~$1).
+
+## Статус блокеров (устарел — все инструменты одобрены 11.07.2026)
 
 - generate_image, generate_video: работают без одобрения.
 - generate_audio, list_voices, explainer-пресеты, get_workflow_instructions: требуют одобрения Higgsfield-коннектора в настройках claude.ai (та же процедура, что была с vidIQ).

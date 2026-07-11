@@ -32,4 +32,9 @@
 | E6 1945 | 85c840da-178f-4122-9ad1-e3ba02b9d227 | https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_182628_85c840da-178f-4122-9ad1-e3ba02b9d227.mp4 |
 | E7 луп | 4d913062-6f6c-44f9-b84d-73c2d67cdfed | https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_182652_4d913062-6f6c-44f9-b84d-73c2d67cdfed.mp4 |
 
-Расход: ~66.5 кредитов. Озвучка и сборка — после одобрения generate_audio / explainer_video (см. pilot-01).
+## ФИНАЛЬНЫЙ РОЛИК (готов, 11.07.2026)
+
+**MP4 (720x1280, 35с, озвучка Roman + субтитры anton):**
+https://d8j0ntlcm91z4.cloudfront.net/user_3E0Hcxq5BO3GZDpxSwLP98OXPJb/hf_20260711_183618_9bfa4975-996c-4c3f-8530-80ac8e9364de.mp4
+
+Сборка: explainer_video job 9bfa4975-996c-4c3f-8530-80ac8e9364de. Аудио-блоки (Roman): 20ca322d, f75a0f3f, dcdb5404, c8359212, e9897cb9, 27a10db0, e22e2ca8. Полная себестоимость: ~70 кредитов (~$1).
